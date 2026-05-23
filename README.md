@@ -38,9 +38,9 @@ I enjoy building practical projects, learning by doing, and solving real-world t
 ## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ColdSpellhere&show_icons=true" alt="GitHub Stats" />
+  <img height="160" src="https://stats.xiaoyuan151.net/api?username=ColdSpellhere&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColdSpellhere&layout=compact" alt="Top Languages" />
+  <img height="160" src="https://stats.xiaoyuan151.net/api/top-langs/?username=ColdSpellhere&layout=compact&hide=HTML,CSS,Jupyter%20Notebook&card_width=500&hide_border=true" alt="Top Languages" />
 </p>
